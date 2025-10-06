@@ -1,0 +1,7 @@
+/* Elijah Hilfiker 10/5/2025 */
+.required { border: 2px solid yellow; }
+.required:focus { border-color: yellow; outline: none; }
+.invalid {
+  border: 2px solid red;
+  background: #ffecec;
+}
